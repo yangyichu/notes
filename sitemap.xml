@@ -2,97 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://yichuyang.com/blog/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/MPC/testpage/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/MPC/%E5%9F%BA%E4%BA%8E%E9%98%B6%E8%B7%83%E5%93%8D%E5%BA%94%E7%9A%84%E6%97%A0%E7%BA%A6%E6%9D%9F%E6%8E%A7%E5%88%B6/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Motion-Planning/BCH-approximation/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Motion-Planning/ICP-realization/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Motion-Planning/Polynomial-Trajectory-Planning-for-Aggressive-Quadrotor-Flight/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Motion-Planning/matrix_diff/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Motion-Planning/trajectory-optimization/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Notes/makeshared%E6%8C%87%E9%92%88/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Sensor-Fusion/3D%E6%BF%80%E5%85%89%E9%87%8C%E7%A8%8B%E8%AE%A1%20I/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Sensor-Fusion/Ceres-Tutorial/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Sensor-Fusion/LOAM/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Sensor-Fusion/%E5%8D%A1%E5%B0%94%E6%9B%BC%E6%BB%A4%E6%B3%A2/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Sensor-Fusion/%E5%8D%A1%E5%B0%94%E6%9B%BC%E6%BB%A4%E6%B3%A2%E5%BA%94%E7%94%A8/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Sensor-Fusion/%E5%8D%A1%E5%B0%94%E6%9B%BC%E6%BB%A4%E6%B3%A2%E6%8E%A8%E5%AF%BC/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Sensor-Fusion/%E6%83%AF%E6%80%A7%E5%AF%BC%E8%88%AA%E5%8E%9F%E7%90%86%E5%8F%8A%E8%AF%AF%E5%B7%AE%E5%88%86%E6%9E%90/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Sensor-Fusion/%E6%83%AF%E6%80%A7%E5%AF%BC%E8%88%AA%E8%A7%A3%E7%AE%97%E5%8F%8A%E8%AF%AF%E5%B7%AE%E6%A8%A1%E5%9E%8B/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Sensor-Fusion/%E8%AF%AF%E5%B7%AE%E7%8A%B6%E6%80%81%E5%8D%A1%E5%B0%94%E6%9B%BC%28ESKF%29%E7%AC%94%E8%AE%B01/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/blog/Sensor-Fusion/%E8%AF%AF%E5%B7%AE%E7%8A%B6%E6%80%81%E5%8D%A1%E5%B0%94%E6%9B%BC%28ESKF%29%E7%AC%94%E8%AE%B02/</loc>
-         <lastmod>2022-05-27</lastmod>
+         <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
