@@ -39,7 +39,7 @@ function setup() {
     [color('#00695c'),color('#81c784'),color('#d4e157')],
     [color('#ffa000'),color('#ff6e40')],
     [color('#78909c')]];
-    createCanvas(800, 400);
+    createCanvas(600, 400);
     init_canvas();
   }
   

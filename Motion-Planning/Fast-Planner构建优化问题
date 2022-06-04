@@ -1,0 +1,16 @@
+## Cost Funtion
+$$
+f_{total}= \lambda_1 \underbrace{f_s}_{smoothness} + \lambda_2 \underbrace{f_c}_{collision} +\lambda_3\underbrace{(f_v+f_a)}_{\text{limits on velocity and acceleration}}
+$$
+
+### 1. smoothness cost
+smoothness cost 仅对几何误差进行积分，并不像minimum snap等对jerk或者snap积分，因为还要调整时间，对snap或jerk积分意义不大，因此直接对几何条件进行约束，希望我们的控制点构成的曲线尽可能短，尽可能的直。
+
+$$
+f_s=\sum_{i=p_b-1}^{N-p_b+1} \|(Q_{i+1}-Q_i)+(Q_{i-1}-Q_i)\|^2
+$$
+
+$\frac{1}{2}\|(Q_{i+1}-Q_i)+(Q_{i-1}-Q_i)\|$是$Q_i$到$Q_{i-1}$和$Q_{i+1}$连线中点距离
+
+### 2. dynamic feasibility cost
+要求变量不能超越设定的最大值
