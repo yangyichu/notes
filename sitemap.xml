@@ -2,152 +2,172 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://yichuyang.com/notes/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/tags/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/MPC/mindmap.mm/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/MPC/testpage/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/MPC/%E5%9F%BA%E4%BA%8E%E9%98%B6%E8%B7%83%E5%93%8D%E5%BA%94%E7%9A%84%E6%97%A0%E7%BA%A6%E6%9D%9F%E6%8E%A7%E5%88%B6/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Motion-Planning/B-spline/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Motion-Planning/BCH-approximation/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Motion-Planning/ESDF/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Motion-Planning/ICP-realization/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Motion-Planning/Occupancy-Grid-Map/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Motion-Planning/Polynomial-Trajectory-Planning-for-Aggressive-Quadrotor-Flight/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Motion-Planning/matrix_diff/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Motion-Planning/trajectory-optimization/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Motion-Planning/%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%BB%A4%E6%B3%A2%E5%92%8C%E7%B2%92%E5%AD%90%E6%BB%A4%E6%B3%A2Tutorial/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Notes/makeshared%E6%8C%87%E9%92%88/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yichuyang.com/notes/RL/DRQN%E5%AE%9E%E7%8E%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E7%BB%86%E8%8A%82/</loc>
+         <lastmod>2022-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yichuyang.com/notes/RL/R2D2-%E7%AC%94%E8%AE%B0/</loc>
+         <lastmod>2022-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yichuyang.com/notes/RL/pytorch%E7%AC%94%E8%AE%B0%E5%92%8C%E8%AE%AD%E7%BB%83%E6%97%B6%E7%9A%84%E4%B8%80%E4%BA%9B%E6%8A%80%E5%B7%A7/</loc>
+         <lastmod>2022-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yichuyang.com/notes/RL/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%B0%8F%E6%8A%84/</loc>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/RL/%E6%89%8B%E6%92%95%E5%B8%B8%E7%94%A8%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E4%BB%A3%E7%A0%81/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Sensor-Fusion/3D%E6%BF%80%E5%85%89%E9%87%8C%E7%A8%8B%E8%AE%A1%20I/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Sensor-Fusion/Ceres-Tutorial/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Sensor-Fusion/ESKF%E5%8A%A8%E5%8A%9B%E5%AD%A6%E6%96%B9%E7%A8%8B/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Sensor-Fusion/ESKF%E7%A6%BB%E6%95%A3%E5%8A%A8%E5%8A%9B%E5%AD%A6%E6%96%B9%E7%A8%8B/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Sensor-Fusion/ESKF%E8%AF%AF%E5%B7%AE%E7%8A%B6%E6%80%81%E6%BB%A4%E6%B3%A2%E5%99%A8/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Sensor-Fusion/LOAM/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Sensor-Fusion/%E5%8D%A1%E5%B0%94%E6%9B%BC%E6%BB%A4%E6%B3%A2/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Sensor-Fusion/%E5%8D%A1%E5%B0%94%E6%9B%BC%E6%BB%A4%E6%B3%A2%E5%BA%94%E7%94%A8/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Sensor-Fusion/%E5%8D%A1%E5%B0%94%E6%9B%BC%E6%BB%A4%E6%B3%A2%E6%8E%A8%E5%AF%BC/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Sensor-Fusion/%E5%9B%9B%E5%85%83%E6%95%B0%E5%9F%BA%E7%A1%80%E5%92%8C%E6%83%AF%E6%80%A7%E5%AF%BC%E8%88%AA%E8%A7%A3%E7%AE%97/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Sensor-Fusion/%E5%9B%BE%E4%BC%98%E5%8C%96/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Sensor-Fusion/%E6%83%AF%E6%80%A7%E5%AF%BC%E8%88%AA%E5%8E%9F%E7%90%86%E5%8F%8A%E8%AF%AF%E5%B7%AE%E5%88%86%E6%9E%90/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/Sensor-Fusion/%E9%A2%84%E7%A7%AF%E5%88%86%E6%8E%A8%E5%AF%BC/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yichuyang.com/notes/tags/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
